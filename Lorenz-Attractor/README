@@ -1,0 +1,14 @@
+To compile, run the following commands in terminal:
+> make
+> ./lorenz
+> make clean
+
+ Using the program:
+ * Up Arrow         Rotate elevation angle +5 
+ * Down Arrow       Rotate elevation angle -5 
+ * Right Arrow      Rotate Azimuth angle +5 
+ * Left Arrow       Rotate Azimuth angle -5
+ * R/r              increase/decrease rho
+ * S/s              increase/decrease sigma
+ * B/b              increase/decrease beta
+ * ESC              Exit

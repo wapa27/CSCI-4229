@@ -1,0 +1,21 @@
+To Compile / Clean, run the following:
+make
+./hw3
+
+to clean, run:
+make clean
+
+
+Instructions:
+ESC                 Exit program
+'m'/ 'M'            Switch between Orthogonal and Perspective
+'-' / '+'           Reduce and Increase the field of view
+'0'                 Azimuth = Elevation = 0
+'a' / 'A'           Enable/Disable axis
+Up/Down Key         Increase and Decrease Elevation Angle
+Right/Left Key      Rotate screen right and left
+F1 / F2             Zoom In and Zoome Out
+
+
+
+~ Time Take = about 8 hours

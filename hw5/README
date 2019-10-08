@@ -1,0 +1,25 @@
+To Compile / Clean, run the following:
+make
+./hw4
+
+to clean, run:
+make clean
+
+
+Instructions:
+ESC                 Exit program
+'m'/ 'M'            Switch between Orthogonal, Perspective, First Person
+'-' / '+'           Reduce and Increase the field of view
+'0'                 Azimuth = Elevation = 0
+'x' / 'X'           Enable/Disable axis
+Up/Down Key         Increase and Decrease Elevation Angle
+Right/Left Key      Rotate screen right and left
+F1 / F2             Zoom In and Zoome Out
+
+For First Person Mode:
+'w' / 'W'           Move Forward
+'s' / 'S'           Move Backward
+'a' / 'A'           Move Left
+'d' / 'D'           Move Right
+
+~ Time Take = about 5 hours

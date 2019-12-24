@@ -1,9 +1,0 @@
-To run, in terminal:
-    make
-    ./simulator
-
-Controls
-    'w'        Speed Up
-    's'        Slow Down
-    esc        Exit Simulator
-    Mouse location dictates direction/yaw/pitch

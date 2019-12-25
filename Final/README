@@ -1,0 +1,27 @@
+To run, in terminal:
+    make
+    ./simulator
+Clean with:
+    make clean
+
+Controls
+    esc        Exit Simulator
+    'w/W'        Speed Up
+    's/S'        Slow Down
+    'b/B'        Fire Missle/Reset Missle
+    't/T'        Takeoff (only works once you come to a complete stop)
+    To land, come at the ground with a non-harsh angle
+    Mouse location dictates direction/yaw/pitch
+
+
+
+<!-- Some final comments -->
+* I revamped the scene.
+* There are two light sources, the moon and the missle. Missle should demonstrate
+* functional normals. You'll see a lot of the vertices are down around the -2000
+* mark along the y-axis; this isn't very clean looking and if I had a bit more time
+* I'd go in and adjust the skybox and ground so that my base is 0. But I quickly
+* got used to -2000 in development, so I'm sticking with it. Everything south of line
+* 363 was done with no/minimal help or from a derivation of a class example. What I'm most proud
+* of in the project is the landing/takeoff and missle. I'm pleased to have the lighting/normals working 
+* correctly too.
